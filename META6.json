@@ -19,7 +19,7 @@
 
     "depends" : [ "Concurrent::Stack:ver<1.0>" ],
 
-    "description" : "Base roles for DB::* family of SQL Database modules",
+    "description" : "Base roles for DB::* family of SQL Database modules trigger travis",
 
     "test-depends" : [ "Test", "Test::META", "Test::When" ],
 
